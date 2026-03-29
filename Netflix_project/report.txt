@@ -1,0 +1,10 @@
+Netflix Data Analysis Report
+
+1. Netflix has more Movies than TV Shows.
+2. The number of Netflix releases increased after 2015.
+3. Drama and International Movies are the most popular genres.
+4. Netflix content production increased rapidly in recent years.
+5. Movies dominate the platform compared to TV Shows.
+
+Conclusion:
+From the analysis, Netflix has grown rapidly over the years, especially after 2015. The platform mainly focuses on movies and popular genres like Drama and International content.
